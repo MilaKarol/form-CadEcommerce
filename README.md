@@ -1,5 +1,8 @@
 # form-CadEcommerce ⌨️ 
 
+## DESCRIÇÃO📄 
+
+
 * O Primeiro site que eu utilizei foi a Prata Fina, um site de jóias e alianças, fiz o meu cadastro com eles e eu achei interessante como foi feito o form deles.  
 Eles não colocaram nada "fora do normal", são informações básicas, mas são informações necessarias. 
 A loja começou pedindo o E-mail, CPF ou CNPJ, Nome completo, Data de nascimento, Telefone celular, Gênero(opcional), Senha e claro,que você concorde com o termo de política de privacidade.  
@@ -26,5 +29,32 @@ Para se cadastrar mé bem simples também, você ira clicar em quero me cadastra
 
 Agora você ja está cadastrado, é só ir para as compras. Escolha seu item desejado, finalizar compra, vai pedir para calular o frete, CPF, telefone, Data de nascimento, indentificção de endereço, CEP, número, complemento, bairro, referencia, estado, cidade, nome do destinario, definir como endereço padrão, salvar e  continuar, receber Expresso ou Economico, selecionar pagamento, realizar ´pagamnto com cartão de credito, pix, boleto bancario, e se tiver cartão presente da loja pode adiconar também!
 E pronto sua compra esta concluida, é só esperar chegar em sua casa.
+
+
+### 🛠️ Tecnologias
+```
+ HTML
+ CSS
+```
+
+### 🔧 Ferramentas
+```
+ VSCODE
+ GitHub
+ Bootstrap
+```
+
+### 📁 Sites Utilizados
+```
+ MDN
+```
+
+### ✒️ Autora 
+
+<img src="eu.png" width="10%">
+(https://github.com/MilaKarol)
+
+
+
 
 
