@@ -31,6 +31,8 @@ Agora você ja está cadastrado, é só ir para as compras. Escolha seu item des
 E pronto sua compra esta concluida, é só esperar chegar em sua casa.
 
 
+ * No site que eu criei, eu peguei algumas coisas que vi em outro site e coloquei no meu, coisas que achei intressante ter num site.
+
 ### 🛠️ Tecnologias
 ```
  HTML
